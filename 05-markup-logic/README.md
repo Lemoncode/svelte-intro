@@ -1,6 +1,6 @@
 # 05. Markup Logic
 
-Vamos a necesitar para estos ejemplos una interface de datos, vamos a crear un ficher `model.ts` con la interface `User`:
+Vamos a necesitar para estos ejemplos una interface de datos, vamos a crear un fichero `model.ts` con la interface `User`:
 
 ```typescript
 export interface User {
